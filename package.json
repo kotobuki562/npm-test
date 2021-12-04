@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/kotobuki562/npm-test.git"
   },
+  "publishConfig": {
+    "@kotobuki562:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "test",
     "npm"
